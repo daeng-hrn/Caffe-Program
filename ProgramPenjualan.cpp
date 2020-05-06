@@ -11,9 +11,7 @@ int pilih;
 char kembali, pilihan;
 }x;
 
-int data, i;
-int tmp;
-int a = 0, e=202000, kode['0'], harga['0'];
+int a = 0, e=202000, kode['0'], harga['0'], data, i, tmp;
 int main();
 
 FILE *datapenjualan;
