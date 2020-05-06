@@ -189,6 +189,7 @@ printf("%d\t\t|\t%s\t\t|\t%s\t\t|\t%s\t\t\t|\t%d", kode[a], menuutama[i].minuman
 fclose(datapenjualan);
 }
 
+
 /*
 //Hapus Data
 void hapusdata(){
