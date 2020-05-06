@@ -1,0 +1,3 @@
+#202001#kopi#sedang#panas#12000#
+#202002#coklat#sedang#hangat#21600#
+#202002#soda#sedang#dingin#14400#
